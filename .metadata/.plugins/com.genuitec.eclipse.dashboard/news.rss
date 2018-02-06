@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Genuitec</title>
+	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.genuitec.com</link>
+	<description>The Cloud Control Company</description>
+	<lastBuildDate>Fri, 05 Jan 2018 06:09:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Happy Holidays &#8211; from Our Family to Yours!</title>
+		<link>https://www.genuitec.com/happy-holidays-family/</link>
+		<pubDate>Sat, 23 Dec 2017 13:23:56 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Happy Holidays]]></category>
+		<category><![CDATA[holiday greetings]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=545674</guid>
+		<description><![CDATA[<p>It’s that time of the year again &#8211; the time to enjoy a break from the everyday duties, accompanied by our loved ones! At Genuitec we would like to wish you a wonderful holiday season filled with great times and awesome food! We already got our party hats out (as you can see)! Our U.S. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/happy-holidays-family/">Happy Holidays &#8211; from Our Family to Yours!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>MyEclipse 2017 Stable 2.0 is Ready for Your Holiday Table!</title>
+		<link>https://www.genuitec.com/myeclipse-2017-stable-2-0-is-ready/</link>
+		<pubDate>Fri, 22 Dec 2017 21:53:32 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[myeclipse 2017 stable 2.0]]></category>
+		<category><![CDATA[myeclipse release]]></category>
+		<category><![CDATA[myeclipse updates]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=545684</guid>
+		<description><![CDATA[<p>The long wait between the first stable release of the year and this one has definitely paid off: 2017 Stable 2.0 sums up the work done in the last six CI releases! Thus, you can fully enjoy this holiday season, knowing that when you jump back into your work, you can rely on Angular 5 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/myeclipse-2017-stable-2-0-is-ready/">MyEclipse 2017 Stable 2.0 is Ready for Your Holiday Table!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>2017 CI 10 &#8211; Our Holiday Gift is Here</title>
+		<link>https://www.genuitec.com/2017-ci-10-holiday-gift/</link>
+		<pubDate>Fri, 22 Dec 2017 13:18:37 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[2017 CI 10 release]]></category>
+		<category><![CDATA[new release]]></category>
+		<category><![CDATA[software updates]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=545604</guid>
+		<description><![CDATA[<p>We are getting more and more in the holiday mood! Need proof? Our 2017 CI 10 is out the door, bringing you the best present right before the holidays &#8211; a release focused on critical fixes across our products. And if you happened to experience a critical crash on macOS High Sierra, it won’t happen [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/2017-ci-10-holiday-gift/">2017 CI 10 &#8211; Our Holiday Gift is Here</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Create a Note Taking App Using Angular</title>
+		<link>https://www.genuitec.com/create-note-taking-app-using-angular/</link>
+		<pubDate>Mon, 11 Dec 2017 12:51:59 +0000</pubDate>
+		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[create a note taking app]]></category>
+		<category><![CDATA[note taking app]]></category>
+		<category><![CDATA[note taking app with Angular]]></category>
+		<category><![CDATA[write a note taking app]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=542885</guid>
+		<description><![CDATA[<p>In this Angular tutorial, we are going to create a Note Taking App using Angular IDE.Create New Angular ProjectWe’re going to be using Angular IDE in this tutorial, though you can use Webclipse or MyEclipse, following exactly the same steps. Before beginning, do ensure you are in the Angular Perspective (Window &#62; Perspective &#62; Open Perspective [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/create-note-taking-app-using-angular/">Create a Note Taking App Using Angular</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+<enclosure url="https://resources.cloud.genuitec.com/wp-content/uploads/2017/11/note-taking-app-video-1.mp4" length="2433162" type="video/mp4" />
+<enclosure url="https://resources.cloud.genuitec.com/wp-content/uploads/2017/11/note-taking-app-video-2.mp4" length="378943" type="video/mp4" />
+		</item>
+		<item>
+		<title>In CI 9, DevStyle Ships with Webclipse and Angular IDE &#8211; Here’s Why</title>
+		<link>https://www.genuitec.com/ci-9-devstyle-ships-webclipse-angular-ide-heres/</link>
+		<pubDate>Fri, 01 Dec 2017 20:43:25 +0000</pubDate>
+		<dc:creator><![CDATA[timwebb]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[color theming]]></category>
+		<category><![CDATA[devstyle in angular]]></category>
+		<category><![CDATA[devstyle in webclipse]]></category>
+		<category><![CDATA[devstyle integration]]></category>
+		<category><![CDATA[enhanced startup]]></category>
+		<category><![CDATA[navigation]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=544322</guid>
+		<description><![CDATA[<p>Webclipse and Angular IDE are key products for Genuitec and one main area we are trying to fix is not only support for coding in JavaScript, TypeScript, Angular and more inside Eclipse, but also make Eclipse a joy to work with.  Part of that was available for some time in Webclipse with things like the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/ci-9-devstyle-ships-webclipse-angular-ide-heres/">In CI 9, DevStyle Ships with Webclipse and Angular IDE &#8211; Here’s Why</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Introducing DevStyle &#8211; Rebooting Eclipse&#8217;s UX</title>
+		<link>https://www.genuitec.com/devstyle-rebooting-eclipses-ux/</link>
+		<pubDate>Fri, 01 Dec 2017 18:29:56 +0000</pubDate>
+		<dc:creator><![CDATA[wayne]]></dc:creator>
+				<category><![CDATA[Bright Ideas]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[color themes]]></category>
+		<category><![CDATA[color theming]]></category>
+		<category><![CDATA[enhanced startup]]></category>
+		<category><![CDATA[improved navigation]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=539201</guid>
+		<description><![CDATA[<p>Yesterday we released the first production version of DevStyle, a free add-on for Eclipse. DevStyle seeks to dramatically improve the Eclipse user experience for millions of developers with the introduction of modern developer ergonomics and the beautiful styling you’ve come to expect from products in 2017.Over the years, the Eclipse evolution has been towards development [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/devstyle-rebooting-eclipses-ux/">Introducing DevStyle &#8211; Rebooting Eclipse&#8217;s UX</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>2017 CI 9 &#8211; Decking up for the Holidays with DevStyle and More!</title>
+		<link>https://www.genuitec.com/2017-ci-9-decking-holidays-devstyle/</link>
+		<pubDate>Thu, 30 Nov 2017 16:06:55 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[2017 CI 9 release]]></category>
+		<category><![CDATA[software updates]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=541401</guid>
+		<description><![CDATA[<p>Malls across many countries are not the only places getting decked up for the holidays &#8211; we are getting into a pre-holiday mood ourselves with our latest release. Many improvements are included in our 2017 CI 9 release, both for our MyEclipse users, and for those who prefer Webclipse or Angular IDE. We are happy [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/2017-ci-9-decking-holidays-devstyle/">2017 CI 9 &#8211; Decking up for the Holidays with DevStyle and More!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Gradle vs Maven &#8211; in Search for the Perfect Build Automation Tool</title>
+		<link>https://www.genuitec.com/gradle-vs-maven-search-perfect-build-automation-tool/</link>
+		<pubDate>Fri, 24 Nov 2017 17:54:35 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[gradle]]></category>
+		<category><![CDATA[gradle features]]></category>
+		<category><![CDATA[gradle vs maven]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[maven features]]></category>
+		<category><![CDATA[maven vs gradle]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=543361</guid>
+		<description><![CDATA[<p>In your quest for the perfect build automation tool, you have probably come across Maven and Gradle &#8211; the two big players in the field. The decision here is no less tricky than picking just the right ingredients for that awesome holiday dish you might be thinking about preparing. Of course, each tool has its [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/gradle-vs-maven-search-perfect-build-automation-tool/">Gradle vs Maven &#8211; in Search for the Perfect Build Automation Tool</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>30% off sale, including Angular IDE and more!</title>
+		<link>https://www.genuitec.com/30-off-sale-including-angular-ide/</link>
+		<pubDate>Wed, 22 Nov 2017 19:33:38 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Promotions]]></category>
+		<category><![CDATA[coupon]]></category>
+		<category><![CDATA[promo]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=543636</guid>
+		<description><![CDATA[<p>Step away from the leftovers and come take advantage of our Cyber Monday sale for Angular IDE, Webclipse, MyEclipse and more!   Thanksgiving is a great time for getting together with family, but perhaps more importantly, it’s about the SALES!  Whether it’s Buen Fin or Cyber Monday, we all love a bargain. Now is the time [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/30-off-sale-including-angular-ide/">30% off sale, including Angular IDE and more!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Improving Java Performance</title>
+		<link>https://www.genuitec.com/improving-java-performance/</link>
+		<pubDate>Fri, 10 Nov 2017 20:28:13 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[improve Java performance]]></category>
+		<category><![CDATA[improving Java performance]]></category>
+		<category><![CDATA[Java performance]]></category>
+		<category><![CDATA[Java performance issues]]></category>
+		<category><![CDATA[Java performance problems]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=542225</guid>
+		<description><![CDATA[<p>Java is a fun language to develop in but at scale it can give you headaches. One can run into a number of problems that can affect the way a Java app runs. In this article we&#8217;ll touch on some common areas for performance issues and share some good resources to guide in your Java performance [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/improving-java-performance/">Improving Java Performance</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Create a Cryptocurrency Dashboard with Angular</title>
+		<link>https://www.genuitec.com/create-cryptocurrency-dashboard-angular/</link>
+		<pubDate>Tue, 07 Nov 2017 20:25:08 +0000</pubDate>
+		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[create cryptocurrency dashboard]]></category>
+		<category><![CDATA[cryptocurrency dashboard]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=541645</guid>
+		<description><![CDATA[<p>With Bitcoin’s record-breaking surge past the $7000 mark, we thought this would the perfect time to build a cryptocurrency dashboard with Angular. Cryptocurrency is a digital asset designed to work as a medium of exchange, using cryptography to secure the transactions and to control the creation of additional units of the currency. While Bitcoin is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/create-cryptocurrency-dashboard-angular/">Create a Cryptocurrency Dashboard with Angular</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>TypeScript 2.5 Features</title>
+		<link>https://www.genuitec.com/typescript-2-5-features/</link>
+		<pubDate>Mon, 30 Oct 2017 14:05:45 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[typescript]]></category>
+		<category><![CDATA[typescript 2.5]]></category>
+		<category><![CDATA[typescript 2.6]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=540980</guid>
+		<description><![CDATA[<p>If you have kept true to JavaScript (JS), using TypeScript (TS) doesn’t represent abandoning a good old friend. It’s simply moving on to its typed superset &#8211; basically, getting JS with optional static types, which gets you the best of both worlds (the JS flexibility and strengthened TS security).  If you have already enjoyed TypeScript’s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/typescript-2-5-features/">TypeScript 2.5 Features</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Testing Angular Apps with Jasmine and Karma</title>
+		<link>https://www.genuitec.com/testing-angular-apps-jasmine-karma/</link>
+		<pubDate>Wed, 25 Oct 2017 21:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[How-to's]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[test angular 4 apps]]></category>
+		<category><![CDATA[testing angular 4 apps]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=538042</guid>
+		<description><![CDATA[<p>Testing is one of the most important aspects of the modern application development process. Today, high quality, robust applications are the norm; nobody appreciates a buggy application. This article will walk you through testing your Angular application using capabilities that are already part of your Angular project.Creating a New Angular ProjectWe’re going to be using [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/testing-angular-apps-jasmine-karma/">Testing Angular Apps with Jasmine and Karma</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Set Up and Use a Fake REST API with Angular</title>
+		<link>https://www.genuitec.com/set-use-fake-rest-api-angular/</link>
+		<pubDate>Fri, 20 Oct 2017 20:22:33 +0000</pubDate>
+		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[How-to's]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[fake REST API]]></category>
+		<category><![CDATA[fake rest APIs]]></category>
+		<category><![CDATA[fake rest APIs with Angular 4]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=540214</guid>
+		<description><![CDATA[<p>Often, when developing Angular applications, you do not have the backing REST APIs ready for testing. To avoid having to digress into developing web services, or being blocked, waiting for your back end team to provide them, you can use JSON server to provide a &#8220;fake&#8221; API. This article will show you how to use [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/set-use-fake-rest-api-angular/">Set Up and Use a Fake REST API with Angular</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Angular 5 Features</title>
+		<link>https://www.genuitec.com/angular-5-release-imminent/</link>
+		<pubDate>Tue, 17 Oct 2017 23:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[MyEclipse Top News]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[angular 5]]></category>
+		<category><![CDATA[angular 5 breaking changes]]></category>
+		<category><![CDATA[angular 5 features]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=540073</guid>
+		<description><![CDATA[<p>Front-end developers, rejoice &#8211; after a short delay, the Angular 5 release is scheduled for October 23rd!Update (November 1st): It&#8217;s finally here! After ten release candidates, Angular version 5.0.0, &#8220;pentagonal-donut&#8221;, has been released.Update (October 31st): Well, we&#8217;re still waiting for Angular version 5, and we&#8217;re now at 5.0.0 RC 9 &#8211; but, I&#8217;m sure you&#8217;d [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-5-release-imminent/">Angular 5 Features</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 9411/9527 objects using disk
+Page Caching using disk: enhanced (Requested URI is rejected)
+Content Delivery Network via resources.cloud.genuitec.com
+Database Caching 42/44 queries in 0.010 seconds using disk
+
+ Served from: www.genuitec.com @ 2018-01-05 02:47:22 by W3 Total Cache -->

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <filter>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <filter-name>AdminIndexFilter</filter-name>
+    <filter-class>com.apsfc.servlet.admin.AdminIndexFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>AdminIndexFilter</filter-name>
+    <url-pattern>/admin/index.jsp</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+  </filter-mapping>
+  <filter>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <filter-name>AdminLoginFilter</filter-name>
+    <filter-class>com.apsfc.servlet.admin.AdminLoginFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>AdminLoginFilter</filter-name>
+    <url-pattern>/admin/menus.jsp</url-pattern>
+    <url-pattern>/admin/menus_add.jsp</url-pattern>
+    <url-pattern>/admin/menus_update.jsp</url-pattern>
+    <url-pattern>/admin/type.jsp</url-pattern>
+    <url-pattern>/admin/type_add.jsp</url-pattern>
+    <url-pattern>/admin/type_update.jsp</url-pattern>
+    <url-pattern>/admin/notice.jsp</url-pattern>
+    <url-pattern>/admin/notice_add.jsp</url-pattern>
+    <url-pattern>/admin/notice_update.jsp</url-pattern>
+    <url-pattern>/admin/order.jsp</url-pattern>
+    <url-pattern>/admin/order_search.jsp</url-pattern>
+    <url-pattern>/admin/order_statistic.jsp</url-pattern>
+    <url-pattern>/admin/admin_update.jsp</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+  </filter-mapping>
+  <filter>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <filter-name>UserLoginFilter</filter-name>
+    <filter-class>com.apsfc.servlet.qiantai.UserLoginFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>UserLoginFilter</filter-name>
+    <url-pattern>/qiantai/center.jsp</url-pattern>
+    <url-pattern>/qiantai/order.jsp</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+  </filter-mapping>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
